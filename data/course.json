@@ -1,3 +1,27 @@
 [
-    {}
+    {
+        "id": 1,
+        "name": "Phython",
+        "price": 500
+    },
+    {
+        "id": 2,
+        "name": "Java-script",
+        "price": 500
+    },
+    {
+        "id": 3,
+        "name": "#C",
+        "price": 500
+    },
+    {
+        "id": 4,
+        "name": "Java",
+        "price": 500
+    },
+    {
+        "id": 5,
+        "name": "C++",
+        "price": 500
+    }
 ]
